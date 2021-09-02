@@ -1,1 +1,2 @@
 # FriendSystem
+This is simple friends adding and removing system. You can signup and use the system to manage your friend list. This will show you number of friends, available users and your current friend list
